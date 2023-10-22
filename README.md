@@ -70,7 +70,7 @@ F H <BR>
 <hr>
 <h3>Sample Output</h3>
 <hr>
-['A', 'B', 'E', 'D', 'C', 'G', 'F', 'H']
+![output](./https://github.com/d-kavinraja/Implement-Depth-First-Search-Traversal-of-a-Graph/blob/706bb0663d9024721fcc0a5a98392be23a587820/output1.png)
 
 <hr>
 
